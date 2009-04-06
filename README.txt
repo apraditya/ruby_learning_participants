@@ -61,3 +61,7 @@ Change log:
 Cheers,
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
+
+PS: I will fork this repo for my git learning at RubyLearning.org
+Adinda Praditya
+http://twitter.com/apraditya
